@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi chat 👋
 
+I'm still slowly learning!
 <!--
 **nghear/nghear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
