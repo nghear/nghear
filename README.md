@@ -5,8 +5,10 @@ I'm slowly moving up!
 Current Learning:
 - C and C++ (Finished Advanced, working on practical).
 - HTML and CSS (Finished Basic, kinda ass on flex).
-- JavaScript (Still on Basic).
+- JavaScript & PHP (Still on Basic).
 - SQL/Oracle (Finished Function, Cursor, Procedure, Trigger).
+- Java (OOP)
+- C# (.NET development)
 
 <!--
 **nghear/nghear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
